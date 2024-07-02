@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJs, Tailwind, Go.**
 
-- 👯 I’m looking to collaborate as **an Backend Developer**
+- 👯 I’m looking to collaborate as a **Backend Developer**
 
 - 👨‍💻 All of my projects are available at [https://rahmat-haryadi.vercel.app/](https://rahmat-haryadi.vercel.app/)
 
