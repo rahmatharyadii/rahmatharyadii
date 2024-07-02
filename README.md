@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rahmat-haryadi.vercel.app/](https://rahmat-haryadi.vercel.app/)
 
-- 💬 You can contact me on [Whatsapp](https://api.whatsapp.com/send?phone=6285121031610)
+- 💬 You can contact me on [What'sApp](https://api.whatsapp.com/send?phone=6285121031610)
 
 - 📫 How to reach me **rahmat.haryadi@gmail.com**
 
