@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rahmat.haryadi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/129BJBqMYyjnyYkkzP3WOSnR5CY7ggJ4O/view](https://drive.google.com/file/d/129BJBqMYyjnyYkkzP3WOSnR5CY7ggJ4O/view)
+- 📄 Know about my [EXPERIENCES](https://drive.google.com/file/d/129BJBqMYyjnyYkkzP3WOSnR5CY7ggJ4O/view)
 
 - ⚡ Fun fact **I don't remember any code, just logic 🤘🏻**
 
