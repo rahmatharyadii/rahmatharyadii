@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate as a **Backend Developer**
 
-- 👨‍💻 All of my projects are available at [https://rahmat-haryadi.vercel.app/](https://rahmat-haryadi.vercel.app/)
+- 👨‍💻 [All of my projects](https://rahmat-haryadi.vercel.app) are available. 
 
 - 💬 You can contact me on [What'sApp](https://api.whatsapp.com/send?phone=6285121031610)
 
