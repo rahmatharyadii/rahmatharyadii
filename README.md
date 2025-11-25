@@ -166,18 +166,18 @@ Check out my projects & experiences
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahmatharyadii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmatharyadii&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahmatharyadii&show_icons=true&theme=default&hide_border=true&title_color=2E9EF7&icon_color=2E9EF7" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmatharyadii&theme=default&hide_border=true&ring=2E9EF7&fire=FF6B35&currStreakLabel=2E9EF7" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmatharyadii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=FFFFFF" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rahmatharyadii&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF" alt="Contribution Graph" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmatharyadii&layout=compact&theme=default&hide_border=true&title_color=2E9EF7" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rahmatharyadii&theme=github-light&hide_border=true&color=2E9EF7&line=2E9EF7&point=FF6B35" alt="Contribution Graph" />
 </p>
 
 <!-- Trophy -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahmatharyadii&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rahmatharyadii&theme=flat&no-frame=true&no-bg=false&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
