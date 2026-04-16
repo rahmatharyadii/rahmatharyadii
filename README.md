@@ -12,7 +12,7 @@
 </p>
 
 <!-- Profile Picture with Border -->
-<img src="https://rahmat-haryadi.vercel.app/avatar.jpeg" alt="Rahmat Haryadi" width="200" style="border-radius: 50%; border: 4px solid #2E9EF7;" />
+<img src="https://scontent.fcgk3-4.fna.fbcdn.net/v/t51.82787-15/656241992_18564275827008828_3710832268890142082_n.jpg?stp=dst-jpegr_tt6&_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_eui2=AeGoWFhbnZ1uz4NglqFg0whJ4doZwGzXEE7h2hnAbNcQTrM3WYAvE8OW1TNUSxmZwMB3-ZDAqAPd6q3lzBfQImKu&_nc_ohc=3JX_Kkp-H28Q7kNvwHc5oVk&_nc_oc=Adoqv4XS2zzZ_XVzkpEgGIXaFd9pTldSQrKEvqy5TPziBCiGxHT_sF0gfcW1O_KtY-wxRQ-fx-CEd2uJHRaSH5__&_nc_zt=23&se=-1&_nc_ht=scontent.fcgk3-4.fna&_nc_gid=niK4TSdoC86ZuyzuFEJn-A&_nc_ss=7a3a8&oh=00_Af3TnHVHHrbcaqJK4PJ2umkCDVmIVBSkMkqmginN1NGU1Q&oe=69E663AE" alt="Rahmat Haryadi" width="400" style="border-radius: 50%; border: 4px solid #2E9EF7;" />
 
 <br/>
 
